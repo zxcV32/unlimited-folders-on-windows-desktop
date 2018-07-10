@@ -7,3 +7,7 @@ there are 4 files in this repo.
 3) invisible.vbs is used by hiddencmd.bat to hide command prompt
 4) del.bat it is used to delete the folders starting from a digit,good lock select and delete.
 
+You can also make its shortcuts and change its icon.
+location of chrome icon: C:\Users\%USERNAME%\AppData\Local\Google\Chrome\User Data\Default\Google Profile.ico
+
+You can also make a windows task schedule to run at boot or at a specific time.
